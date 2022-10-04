@@ -1,15 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2022-09-05
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2022-09-05
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2022-08-19
-*/
-
 // SPDX-License-Identifier: Unlicensed
 
 pragma solidity 0.8.16;
